@@ -32,7 +32,7 @@ function checkData(data) {
       titleColor: '#ffffff',
       titleSize: '16px',
       backgroundColor: '#ef4040',
-      iconUrl: './img/Group.png',
+      iconUrl: './Group.png',
       position: 'topRight',
       width: '300px',
     });
