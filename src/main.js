@@ -14,4 +14,5 @@ function submitHandler(event) {
   pastemarkUp();
   changeLoader('block');
   setTimeout(getRequest, 2000, searchData);
+  // таймаут для імітації затримки відповіді
 }
