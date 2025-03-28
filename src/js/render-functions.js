@@ -44,7 +44,6 @@ export function pastemarkUp(string = '') {
   list.innerHTML = string;
   if (string) {
     setLightbox();
-    changeLoader('none');
   }
 }
 
